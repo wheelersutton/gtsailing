@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sailing Club at Georgia Tech",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 162,
     "versionPublish": "4.1.2",
@@ -687,7 +687,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-1334x750.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -696,7 +696,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "title": "IMAGE SLIDE",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
@@ -712,7 +712,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "title": "IMAGE SLIDE",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
@@ -728,7 +728,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "title": "IMAGE SLIDE",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
@@ -744,14 +744,14 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "title": "IMAGE SLIDE",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/7e2c65c3-498d-4228-ae13-19499a99da2f-2000x1500.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -760,7 +760,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "title": "IMAGE SLIDE",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
