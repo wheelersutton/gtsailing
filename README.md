@@ -1,2 +1,0 @@
-# gtsailing
-GitHub Pages
